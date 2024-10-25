@@ -1,0 +1,9 @@
+{
+  "name": "pause-on-map",
+  "version": "0.1.0",
+  "title": "Pause on Map Open",
+  "author": "Frank Schneider",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Pauses the game when opening the map in single-player mode."
+}
